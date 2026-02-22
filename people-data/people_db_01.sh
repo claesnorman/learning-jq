@@ -35,3 +35,13 @@ persons=$(jq -r '.[] | (.first_name + "_" + .surname + "_" + .dob)' ${json_file}
 for person in ${persons}; do
     echo "Person: ${person}"
 done
+
+# Get all persons' first names (one name per line and raw output, due to -r flag) and iterate over them in a for loop. Print when John is found or not found.
+persons=$(jq -r '.[] | .first_name' ${json_file})
+for person in ${persons}; do
+    if [[ ${person} == "John" ]]; then
+        echo "Found John!"
+    else
+        echo "No John here!"
+    fi
+done
