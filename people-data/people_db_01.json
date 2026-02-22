@@ -336,5 +336,49 @@
         "proficiency": "Intermediate"
       }
     ]
+  },
+  {
+    "first_name": "John",
+    "surname": "McClane",
+    "dob": "1965-03-24",
+    "gender": "Male",
+    "nationality": "American",
+    "date_of_death": null,
+    "contact": {
+      "email": "john.mcclane@us.com",
+      "phone": "+1-555-6789",
+      "address": {
+        "street": "123 Nakatomi Plaza",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip": "90001"
+      }
+    },
+    "hobbies": ["Video games", "Anime", "Technology"],
+    "social_profiles": {
+      "facebook": "https://facebook.com/john.mcclane",
+      "twitter": "@john_mcclane"
+    },
+    "education": [
+      {
+        "degree": "Bachelor's in Information Technology",
+        "institution": "University of California, Los Angeles",
+        "year": 1985
+      }
+    ],
+    "languages": [
+      {
+        "language": "German",
+        "proficiency": "Fluent"
+      },
+      {
+        "language": "English",
+        "proficiency": "Intermediate"
+      },
+      {
+        "language": "Spanish",
+        "proficiency": "Beginner"
+      }
+    ]
   }
 ]
