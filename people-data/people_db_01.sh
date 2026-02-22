@@ -30,4 +30,8 @@ jq '[ .[] | {first_name: .first_name, surname: .surname, date_of_birth: .dob}] |
 # Get persons and how many languages they speak and a list of those languages, return them as a list
 jq '[ .[] | {first_name: .first_name, surname: .surname, languages_spoken: (.languages | length), languages: [.languages[] | .language]} ]' ${json_file}
 
-
+# Get all persons (one person per line and raw output, due to -r flag) and iterate over them in a for loop. 
+persons=$(jq -r '.[] | (.first_name + "_" + .surname + "_" + .dob)' ${json_file})
+for person in ${persons}; do
+    echo "Person: ${person}"
+done
