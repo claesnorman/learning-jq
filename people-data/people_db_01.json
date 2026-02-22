@@ -1,0 +1,340 @@
+[
+  {
+    "first_name": "Emma",
+    "surname": "Smith",
+    "dob": "1985-07-15",
+    "gender": "Female",
+    "nationality": "Australian",
+    "date_of_death": null,
+    "contact": {
+      "email": "emma.smith@ozmail.com",
+      "phone": "+61-2-5551234",
+      "address": {
+        "street": "123 Ocean Rd",
+        "city": "Sydney",
+        "state": "NSW",
+        "zip": "2000"
+      }
+    },
+    "hobbies": ["Reading", "Traveling", "Cooking"],
+    "social_profiles": {
+      "facebook": "https://facebook.com/emma.smith",
+      "twitter": "@emma_smith"
+    },
+    "education": [
+      {
+        "degree": "Bachelor's in Computer Science",
+        "institution": "University of Sydney",
+        "year": 2007
+      },
+      {
+        "degree": "Master's in Data Science",
+        "institution": "Australian National University",
+        "year": 2010
+      }
+    ],
+    "languages": [
+      {
+        "language": "English",
+        "proficiency": "Fluent"
+      },
+      {
+        "language": "Mandarin",
+        "proficiency": "Intermediate"
+      }
+    ]
+  },
+  {
+    "first_name": "John",
+    "surname": "Doe",
+    "dob": "1973-11-23",
+    "gender": "Male",
+    "nationality": "British",
+    "date_of_death": null,
+    "contact": {
+      "email": "john.doe@outlook.com",
+      "phone": "+44-7911-987654",
+      "address": {
+        "street": "456 High St",
+        "city": "London",
+        "state": "England",
+        "zip": "E1 6AN"
+      }
+    },
+    "hobbies": ["Photography", "Cycling", "Painting"],
+    "social_profiles": {
+      "facebook": "https://facebook.com/john.doe",
+      "instagram": "@john_doe"
+    },
+    "education": [
+      {
+        "degree": "Bachelor's in Fine Arts",
+        "institution": "University of Arts London",
+        "year": 1996
+      }
+    ],
+    "work_experience": [
+      {
+        "title": "Graphic Designer",
+        "company": "Creative Studios",
+        "years": 5
+      },
+      {
+        "title": "Art Director",
+        "company": "Art & Vision Ltd.",
+        "years": 8
+      }
+    ],
+    "languages": [
+      {
+        "language": "English",
+        "proficiency": "Fluent"
+      },
+      {
+        "language": "French",
+        "proficiency": "Intermediate"
+      },
+      {
+        "language": "Spanish",
+        "proficiency": "Beginner"
+      }
+    ]
+  },
+  {
+    "first_name": "Sophia",
+    "surname": "Miller",
+    "dob": "1990-02-04",
+    "gender": "Female",
+    "nationality": "German",
+    "date_of_death": null,
+    "contact": {
+      "email": "sophia.miller@deutschland.de",
+      "phone": "+49-170-5556789",
+      "address": {
+        "street": "789 Königstr.",
+        "city": "Berlin",
+        "state": "Berlin",
+        "zip": "10115"
+      }
+    },
+    "hobbies": ["Running", "Yoga", "Gardening"],
+    "languages": [
+      {
+        "language": "German",
+        "proficiency": "Fluent"
+      },
+      {
+        "language": "English",
+        "proficiency": "Fluent"
+      },
+      {
+        "language": "Spanish",
+        "proficiency": "Intermediate"
+      }
+    ],
+    "pets": [
+      {
+        "type": "Dog",
+        "name": "Charlie",
+        "age": 3,
+        "breed": "Golden Retriever"
+      },
+      {
+        "type": "Cat",
+        "name": "Luna",
+        "age": 2,
+        "breed": "Siamese"
+      }
+    ]
+  },
+  {
+    "first_name": "David",
+    "surname": "Johnson",
+    "dob": "1960-05-09",
+    "gender": "Male",
+    "nationality": "South African",
+    "date_of_death": "2018-06-01",
+    "contact": {
+      "email": "david.johnson@sa.com",
+      "phone": "+27-21-98765432",
+      "address": {
+        "street": "25 Beach Rd",
+        "city": "Cape Town",
+        "state": "Western Cape",
+        "zip": "8000"
+      }
+    },
+    "hobbies": ["Fishing", "Surfing"],
+    "work_experience": [
+      {
+        "title": "Civil Engineer",
+        "company": "Cape Builders",
+        "years": 30
+      }
+    ],
+    "family": {
+      "spouse": {
+        "name": "Linda Johnson",
+        "relationship": "Wife",
+        "dob": "1965-11-13"
+      },
+      "children": [
+        {
+          "name": "Emma Johnson",
+          "dob": "1990-04-18",
+          "gender": "Female"
+        },
+        {
+          "name": "Liam Johnson",
+          "dob": "1994-07-10",
+          "gender": "Male"
+        }
+      ]
+    },
+    "languages": [
+      {
+        "language": "English",
+        "proficiency": "Fluent"
+      },
+      {
+        "language": "Afrikaans",
+        "proficiency": "Fluent"
+      }
+    ]
+  },
+  {
+    "first_name": "Ava",
+    "surname": "Williams",
+    "dob": "1995-12-12",
+    "gender": "Female",
+    "nationality": "Brazilian",
+    "date_of_death": null,
+    "contact": {
+      "email": "ava.williams@br.com",
+      "phone": "+55-11-2345678",
+      "address": {
+        "street": "12 Rua da Paz",
+        "city": "São Paulo",
+        "state": "SP",
+        "zip": "01010-010"
+      }
+    },
+    "hobbies": ["Music", "Traveling", "Swimming"],
+    "social_profiles": {
+      "linkedin": "https://linkedin.com/in/ava-williams",
+      "twitter": "@ava_williams"
+    },
+    "education": [
+      {
+        "degree": "Bachelor's in Psychology",
+        "institution": "University of São Paulo",
+        "year": 2017
+      }
+    ],
+    "languages": [
+      {
+        "language": "Portuguese",
+        "proficiency": "Fluent"
+      },
+      {
+        "language": "English",
+        "proficiency": "Intermediate"
+      }
+    ]
+  },
+  {
+    "first_name": "Liam",
+    "surname": "Hernandez",
+    "dob": "1980-03-25",
+    "gender": "Male",
+    "nationality": "Mexican",
+    "date_of_death": null,
+    "contact": {
+      "email": "liam.hernandez@mx.com",
+      "phone": "+52-55-9876543",
+      "address": {
+        "street": "234 Avenida Reforma",
+        "city": "Mexico City",
+        "state": "CDMX",
+        "zip": "01000"
+      }
+    },
+    "hobbies": ["Football", "Cooking", "Traveling"],
+    "work_experience": [
+      {
+        "title": "Project Manager",
+        "company": "Grupo Bimbo",
+        "years": 10
+      }
+    ],
+    "family": {
+      "spouse": {
+        "name": "Maria Hernandez",
+        "relationship": "Wife",
+        "dob": "1985-06-22"
+      },
+      "children": [
+        {
+          "name": "Carlos Hernandez",
+          "dob": "2012-05-30",
+          "gender": "Male"
+        },
+        {
+          "name": "Sofia Hernandez",
+          "dob": "2015-07-10",
+          "gender": "Female"
+        }
+      ]
+    },
+    "languages": [
+      {
+        "language": "Spanish",
+        "proficiency": "Fluent"
+      },
+      {
+        "language": "English",
+        "proficiency": "Intermediate"
+      }
+    ]
+  },
+  {
+    "first_name": "Haruto",
+    "surname": "Takahashi",
+    "dob": "1992-11-20",
+    "gender": "Male",
+    "nationality": "Japanese",
+    "date_of_death": null,
+    "contact": {
+      "email": "haruto.takahashi@jp.com",
+      "phone": "+81-90-5556789",
+      "address": {
+        "street": "1-2-3 Shibuya",
+        "city": "Tokyo",
+        "state": "Tokyo",
+        "zip": "150-0002"
+      }
+    },
+    "hobbies": ["Video games", "Anime", "Technology"],
+    "social_profiles": {
+      "facebook": "https://facebook.com/haruto.takahashi",
+      "twitter": "@haruto_tech"
+    },
+    "education": [
+      {
+        "degree": "Bachelor's in Information Technology",
+        "institution": "University of Tokyo",
+        "year": 2014
+      }
+    ],
+    "languages": [
+      {
+        "language": "Japanese",
+        "proficiency": "Fluent"
+      },
+      {
+        "language": "English",
+        "proficiency": "Intermediate"
+      }
+    ]
+  }
+]
