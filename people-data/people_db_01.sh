@@ -51,3 +51,6 @@ jq -r '["first_name", "surname", "phone"], (.[] | [.first_name, .surname, .conta
 
 # Get persons and years of experience, but only the persons with more than 5 years of experience.
 jq '[ .[] | select(.years_of_experience >= 5) | {first_name: .first_name, surname: .surname, years_of_experience: .years_of_experience} ]' ${json_file}
+
+# Get average height of all people in the JSON. If height is missing, use 150 as default value. 
+jq '[.[] | (.height // 150)] | (add / length)' ${json_file}
