@@ -4,6 +4,7 @@
     "surname": "Smith",
     "dob": "1985-07-15",
     "gender": "Female",
+    "years_of_experience": 0,
     "nationality": "Australian",
     "date_of_death": null,
     "contact": {
@@ -49,6 +50,7 @@
     "surname": "Doe",
     "dob": "1973-11-23",
     "gender": "Male",
+    "years_of_experience": 13,
     "nationality": "British",
     "date_of_death": null,
     "contact": {
@@ -105,6 +107,7 @@
     "surname": "Miller",
     "dob": "1990-02-04",
     "gender": "Female",
+    "years_of_experience": 0,
     "nationality": "German",
     "date_of_death": null,
     "contact": {
@@ -152,6 +155,7 @@
     "surname": "Johnson",
     "dob": "1960-05-09",
     "gender": "Male",
+    "years_of_experience": 30,
     "nationality": "South African",
     "date_of_death": "2018-06-01",
     "contact": {
@@ -207,6 +211,7 @@
     "surname": "Williams",
     "dob": "1995-12-12",
     "gender": "Female",
+    "years_of_experience": 0,
     "nationality": "Brazilian",
     "date_of_death": null,
     "contact": {
@@ -247,6 +252,7 @@
     "surname": "Hernandez",
     "dob": "1980-03-25",
     "gender": "Male",
+    "years_of_experience": 10,
     "nationality": "Mexican",
     "date_of_death": null,
     "contact": {
@@ -302,6 +308,7 @@
     "surname": "Takahashi",
     "dob": "1992-11-20",
     "gender": "Male",
+    "years_of_experience": 0,
     "nationality": "Japanese",
     "date_of_death": null,
     "contact": {
@@ -342,6 +349,7 @@
     "surname": "McClane",
     "dob": "1965-03-24",
     "gender": "Male",
+    "years_of_experience": 0,
     "nationality": "American",
     "date_of_death": null,
     "contact": {
