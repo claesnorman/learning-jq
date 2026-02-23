@@ -45,3 +45,9 @@ for person in ${persons}; do
         echo "No John here!"
     fi
 done
+
+# Get persons and their phone numbers as a CSV
+jq -r '["first_name", "surname", "phone"], (.[] | [.first_name, .surname, .contact.phone]) | @csv' ${json_file}
+
+# Get persons and years of experience, but only the persons with more than 5 years of experience.
+jq '[ .[] | select(.years_of_experience >= 5) | {first_name: .first_name, surname: .surname, years_of_experience: .years_of_experience} ]' ${json_file}
