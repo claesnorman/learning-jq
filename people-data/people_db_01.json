@@ -7,6 +7,7 @@
     "years_of_experience": 0,
     "nationality": "Australian",
     "date_of_death": null,
+    "height": 165,
     "contact": {
       "email": "emma.smith@ozmail.com",
       "phone": "+61-2-5551234",
@@ -53,6 +54,7 @@
     "years_of_experience": 13,
     "nationality": "British",
     "date_of_death": null,
+    "height": 158,
     "contact": {
       "email": "john.doe@outlook.com",
       "phone": "+44-7911-987654",
@@ -110,6 +112,7 @@
     "years_of_experience": 0,
     "nationality": "German",
     "date_of_death": null,
+    "height": 167,
     "contact": {
       "email": "sophia.miller@deutschland.de",
       "phone": "+49-170-5556789",
@@ -158,6 +161,7 @@
     "years_of_experience": 30,
     "nationality": "South African",
     "date_of_death": "2018-06-01",
+    "height": 174,
     "contact": {
       "email": "david.johnson@sa.com",
       "phone": "+27-21-98765432",
@@ -214,6 +218,7 @@
     "years_of_experience": 0,
     "nationality": "Brazilian",
     "date_of_death": null,
+    "height": 187,
     "contact": {
       "email": "ava.williams@br.com",
       "phone": "+55-11-2345678",
@@ -255,6 +260,7 @@
     "years_of_experience": 10,
     "nationality": "Mexican",
     "date_of_death": null,
+    "height": 168,
     "contact": {
       "email": "liam.hernandez@mx.com",
       "phone": "+52-55-9876543",
@@ -311,6 +317,7 @@
     "years_of_experience": 0,
     "nationality": "Japanese",
     "date_of_death": null,
+    "height": 178,
     "contact": {
       "email": "haruto.takahashi@jp.com",
       "phone": "+81-90-5556789",
@@ -352,6 +359,7 @@
     "years_of_experience": 0,
     "nationality": "American",
     "date_of_death": null,
+    "height": null,
     "contact": {
       "email": "john.mcclane@us.com",
       "phone": "+1-555-6789",
